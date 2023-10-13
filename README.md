@@ -9,8 +9,7 @@
   
  	2020_results_screenshot.jpeg
 
-*VBA script files, I only used one sub, the code is saved as a BAS file 
-and is also saved as part of an excel workbook
+*VBA script files, the code is saved as a BAS file and is also saved as part of an excel workbook
 
 	text file name, VBA_code_challenge_2.bas
  
