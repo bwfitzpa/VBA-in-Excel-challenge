@@ -16,8 +16,6 @@ and is also saved as part of an excel workbook
  
 	excel file name, VBA_code_challenge_2.xlsm
 
-*The excel file Multiple_year_stock_data_works!.xlsm has the original data, results, 
-and VBA code
 
 *Code source/where I received help writing the code
 	
