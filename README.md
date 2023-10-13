@@ -1,13 +1,18 @@
 # VBA-challenge
 *Files created for challenge 2/VBA challenge
 *Screenshots of the results files
+
  	2018_results_screenshot.jpeg
+  
  	2019_results_screenshot.jpeg
+  
  	2020_results_screenshot.jpeg
 
 *VBA script files, I only used one sub, the code is saved as a BAS file 
 and is also saved as part of an excel workbook
+
 	text file name, VBA_code_challenge_2.bas
+ 
 	excel file name, VBA_code_challenge_2.xlsm
 
 *The excel file Multiple_year_stock_data_works!.xlsm has the original data, results, 
