@@ -3,11 +3,11 @@
 
 *Screenshots of the results files
 
- 	2018_results_screenshot.jpeg
+ 	2018_results_screenshot.jpg
   
- 	2019_results_screenshot.jpeg
+ 	2019_results_screenshot.jpg
   
- 	2020_results_screenshot.jpeg
+ 	2020_results_screenshot.jpg
 
 *VBA script files, the code is saved as a BAS file and is also saved as part of an excel workbook
 
