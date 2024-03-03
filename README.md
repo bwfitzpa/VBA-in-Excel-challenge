@@ -1,5 +1,5 @@
 # VBA-challenge
-Files created for challenge 2/VBA challenge
+Files created for challenge 2/VBA challenge to determine yearly change, percent change, the stock with the greatest % increase, the stock with the greatest % decrease, and the stock with with greatest total volume.
 
 Screenshots of the results files
 
