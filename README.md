@@ -1,7 +1,7 @@
 # VBA-challenge
-*Files created for challenge 2/VBA challenge
+Files created for challenge 2/VBA challenge
 
-*Screenshots of the results files
+Screenshots of the results files
 
  	2018_results_screenshot.jpg
   
@@ -9,14 +9,14 @@
   
  	2020_results_screenshot.jpg
 
-*VBA script files, the code is saved as a BAS file and is also saved as part of an excel workbook
+VBA script files, the code is saved as a BAS file and is also saved as part of an excel workbook
 
 	text file name, VBA_code_challenge_2.bas
  
 	excel file name, VBA_code_challenge_2.xlsm
 
 
-*Code source/where I received help writing the code
+Code source/where I received help writing the code
 	
  	-I received help from the TA and another student in the class on 
 	how to use "For Each ws in Worksheets" and "ws.activate" to run the 
